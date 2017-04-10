@@ -1,3 +1,7 @@
+3rd year group project which took place as part of the advanced server side web development module. This project features a clothing store developed using the codeigniter framework and PHP with a range of features. 
+This was completed by myself and 2 other students.
+
+
 ###################
 What is CodeIgniter
 ###################
